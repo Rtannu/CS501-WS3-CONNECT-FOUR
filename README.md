@@ -2,9 +2,7 @@
 CS501-WS3 | Final Java Programming Project | Connect Four Game | Members: Kumar Roushan, Ved Bhanushali
 
 ## Introduction:
-Connect four is a two-player board game in which players alternately drop colored disks into a
-vertically hanging grid of eight columns and six rows. The user wins if they place 4 disk’s
-consecutively. This game helps in boosting strategic thinking capabilities.
+Connect Four is a two-player board game where players alternately drop colored disks into a vertically hanging grid. Winning requires aligning four disks consecutively, enhancing strategic thinking.
 
 ## Game Details:
 - **Players:** Player Red and Player Yellow.
